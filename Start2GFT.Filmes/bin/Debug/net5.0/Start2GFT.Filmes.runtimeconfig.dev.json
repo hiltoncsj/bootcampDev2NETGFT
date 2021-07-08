@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hilto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hilto\\.nuget\\packages"
+    ]
+  }
+}

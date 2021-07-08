@@ -1,0 +1,16 @@
+C:\DEV\bootcampDev2NETGFT\bin\Debug\net5.0\bootcampDev2NETGFT.exe
+C:\DEV\bootcampDev2NETGFT\bin\Debug\net5.0\bootcampDev2NETGFT.deps.json
+C:\DEV\bootcampDev2NETGFT\bin\Debug\net5.0\bootcampDev2NETGFT.runtimeconfig.json
+C:\DEV\bootcampDev2NETGFT\bin\Debug\net5.0\bootcampDev2NETGFT.runtimeconfig.dev.json
+C:\DEV\bootcampDev2NETGFT\bin\Debug\net5.0\bootcampDev2NETGFT.dll
+C:\DEV\bootcampDev2NETGFT\bin\Debug\net5.0\ref\bootcampDev2NETGFT.dll
+C:\DEV\bootcampDev2NETGFT\bin\Debug\net5.0\bootcampDev2NETGFT.pdb
+C:\DEV\bootcampDev2NETGFT\obj\Debug\net5.0\bootcampDev2NETGFT.csproj.AssemblyReference.cache
+C:\DEV\bootcampDev2NETGFT\obj\Debug\net5.0\bootcampDev2NETGFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\bootcampDev2NETGFT\obj\Debug\net5.0\bootcampDev2NETGFT.AssemblyInfoInputs.cache
+C:\DEV\bootcampDev2NETGFT\obj\Debug\net5.0\bootcampDev2NETGFT.AssemblyInfo.cs
+C:\DEV\bootcampDev2NETGFT\obj\Debug\net5.0\bootcampDev2NETGFT.csproj.CoreCompileInputs.cache
+C:\DEV\bootcampDev2NETGFT\obj\Debug\net5.0\bootcampDev2NETGFT.dll
+C:\DEV\bootcampDev2NETGFT\obj\Debug\net5.0\ref\bootcampDev2NETGFT.dll
+C:\DEV\bootcampDev2NETGFT\obj\Debug\net5.0\bootcampDev2NETGFT.pdb
+C:\DEV\bootcampDev2NETGFT\obj\Debug\net5.0\bootcampDev2NETGFT.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\bin\Debug\net5.0\Start2GFT.Filmes.exe
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\bin\Debug\net5.0\Start2GFT.Filmes.deps.json
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\bin\Debug\net5.0\Start2GFT.Filmes.runtimeconfig.json
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\bin\Debug\net5.0\Start2GFT.Filmes.runtimeconfig.dev.json
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\bin\Debug\net5.0\Start2GFT.Filmes.dll
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\bin\Debug\net5.0\ref\Start2GFT.Filmes.dll
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\bin\Debug\net5.0\Start2GFT.Filmes.pdb
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\obj\Debug\net5.0\Start2GFT.Filmes.csproj.AssemblyReference.cache
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\obj\Debug\net5.0\Start2GFT.Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\obj\Debug\net5.0\Start2GFT.Filmes.AssemblyInfoInputs.cache
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\obj\Debug\net5.0\Start2GFT.Filmes.AssemblyInfo.cs
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\obj\Debug\net5.0\Start2GFT.Filmes.csproj.CoreCompileInputs.cache
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\obj\Debug\net5.0\Start2GFT.Filmes.dll
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\obj\Debug\net5.0\ref\Start2GFT.Filmes.dll
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\obj\Debug\net5.0\Start2GFT.Filmes.pdb
+C:\DEV\bootcampDev2NETGFT\Start2GFT.Filmes\obj\Debug\net5.0\Start2GFT.Filmes.genruntimeconfig.cache
