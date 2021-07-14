@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DEV\\APICatalogoJogos\\APICatalogoJogos.csproj": {}
+    "C:\\DEV\\bootcampDev2NETGFT\\APICatalogoJogos\\APICatalogoJogos.csproj": {}
   },
   "projects": {
-    "C:\\DEV\\APICatalogoJogos\\APICatalogoJogos.csproj": {
+    "C:\\DEV\\bootcampDev2NETGFT\\APICatalogoJogos\\APICatalogoJogos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DEV\\APICatalogoJogos\\APICatalogoJogos.csproj",
+        "projectUniqueName": "C:\\DEV\\bootcampDev2NETGFT\\APICatalogoJogos\\APICatalogoJogos.csproj",
         "projectName": "APICatalogoJogos",
-        "projectPath": "C:\\DEV\\APICatalogoJogos\\APICatalogoJogos.csproj",
+        "projectPath": "C:\\DEV\\bootcampDev2NETGFT\\APICatalogoJogos\\APICatalogoJogos.csproj",
         "packagesPath": "C:\\Users\\hilto\\.nuget\\packages\\",
-        "outputPath": "C:\\DEV\\APICatalogoJogos\\obj\\",
+        "outputPath": "C:\\DEV\\bootcampDev2NETGFT\\APICatalogoJogos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hilto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -42,13 +42,17 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[5.0.8, )"
+              "version": "[3.1.15, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[5.0.8, )"
+              "version": "[3.1.15, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

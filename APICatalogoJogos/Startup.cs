@@ -5,12 +5,16 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using APICatalogoJogos.Services;
+using APICatalogoJogos.Repositories;
+using APICatalogoJogos.Middleware;
 using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
+using APICatalogoJogos.ViewModel;
 
 namespace APICatalogoJogos
 {
@@ -26,7 +30,10 @@ namespace APICatalogoJogos
        
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddRazorPages();
+            services.AddScoped<IJogoService, JogoService>();
+            services.AddScoped<IJogoRepository, JogoRepository>();
+            services.AddDbContext<Context>();
+            services.AddControllers();
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ApiCatalogoJogos", Version = "v1" });
@@ -54,6 +61,7 @@ namespace APICatalogoJogos
 
             app.UseHttpsRedirection();
             app.UseStaticFiles();
+            app.UseMiddleware<ExceptionMiddleware>();
 
             app.UseRouting();
 
@@ -61,7 +69,7 @@ namespace APICatalogoJogos
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapRazorPages();
+                endpoints.MapControllers();
             });
         }
     }
